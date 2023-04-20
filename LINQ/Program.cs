@@ -1,10 +1,18 @@
-﻿namespace LINQ
+﻿using System.Linq;
+
+namespace LINQ
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            List<string> VideoGames = new List<string>() {"Mario Brothers", "Resident Evil", "Silent Hill", "Pac Man", "Tetrus" };   
+            VideoGames.OrderByDescending(word => word.Length);
+            
+            foreach (var game in VideoGames) 
+            {
+                Console.WriteLine(game);
+            }
         }
     }
 }
