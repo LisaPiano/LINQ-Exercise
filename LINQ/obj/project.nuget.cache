@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SaPXVexOAIZfWJrGcsdokDt6o7ddwUUGLlFbEOSz9p0nyzNoj+/wMTMOKO2XfNHDk2KhhLydoVu59x3SIbBZfA==",
+  "dgSpecHash": "/vjLtutsQpU5VaULDBG3T0qUPhR0I/N+KHIthpckjno8Bsk1ABO0sKtRxi+PyEEuiX272ZKq0aYI/G72999r5g==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\LINQ-Exercise\\LINQ\\LINQ.csproj",
+  "projectFilePath": "C:\\repos\\LINQ-Exercise\\LINQ\\LINQ.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
